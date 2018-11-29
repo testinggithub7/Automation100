@@ -4,7 +4,7 @@ https://www.slideshare.net/9824680107/manual-testing-interview-question-by-info-
 Testable 
 How complex  & Effort estimate (Person Hrs.)
 
-2. Test Planning 
+2. Test Planning  // jhuidhd
 
 In-Scope, Out-Of-Scope, Dependancies, Risks, Effort, Manual/Automation, Person Hrs, Timelines 
 
