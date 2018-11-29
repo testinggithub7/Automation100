@@ -1,0 +1,43 @@
+1. Requirement Analysis -> Client details (Use Cases, Functional requirement specification)
+https://www.slideshare.net/9824680107/manual-testing-interview-question-by-info-tech-5105175
+
+Testable 
+How complex  & Effort estimate (Person Hrs.)
+
+2. Test Planning 
+
+In-Scope, Out-Of-Scope, Dependancies, Risks, Effort, Manual/Automation, Person Hrs, Timelines 
+
+3. Test Case design
+
+Test Case name, description, Test steps, expected result, actual result (test execution)
+
+4. Test Case Execution 
+
+Test validations, defects management (New, Assigned, Fixed/Rejected/Deferred, Closed, Reopen), Status (Executed/Total)
+
+5. Test Closure Reports
+Summary of all execution , Status reports 
+
+Types of testing:
+Unit Testing > Deploy in  Test Environment -> Module /Integration testing -> System Integration Testing (SIT) -> User Acceptance Testing (Alpha, Beta) -> Production
+
+Testing Models:
+Waterfall, V model, Incremental, Agile model
+
+
+
+Java:
+Class, object 
+Polymorphisam, Encapsulation, Inheritance 
+If, Loops (For, while, Switch Case)
+Utilties: HashMap, Array
+Exception handling: Try, Catch
+
+Application: http://infosharesystems.com/
+
+
+Selenium:
+Object identification (simple attributes, xpath, css)
+Basic methods (Find element, actions, methods)
+How to launch a browser & run basisc steps
