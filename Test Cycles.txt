@@ -1,4 +1,4 @@
-1. Requirement Analysis -> Client details (Use Cases, Functional requirement specification)
+jhdgfuyfguewi1. Requirement Analysis -> Client details (Use Cases, Functional requirement specification)
 https://www.slideshare.net/9824680107/manual-testing-interview-question-by-info-tech-5105175
 
 Testable 
